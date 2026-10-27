@@ -34,4 +34,4 @@ From the title screen you can also pick **NEW CO-OP GAME** or **CONTINUE CO-OP**
   unpatched and `log.txt` says so.
 - Logs for bug reports: `coop.log` and `log.txt` in the game's save folder.
 
-Source, tests and issues: https://github.com/Mochx-007/PkMultiplayer
+Source, tests and issues: https://github.com/Mochx07/PkMultiplayer
